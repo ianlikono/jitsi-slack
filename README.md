@@ -1,5 +1,7 @@
 # Jitsi Slack - Jitsi Meet Integration for Slack
 
+# Add Video COnfrencing to slack using Jitsi Meet
+
 This project provides a Slack integration to enable starting video conferences
 from Slack and easily inviting Slack members to conferences.
 
